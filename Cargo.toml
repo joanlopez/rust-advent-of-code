@@ -1,0 +1,23 @@
+[package]
+name = "rust-advent-of-code"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+regex = "1.10.2"
+
+# Binaries
+[[bin]]
+name = "20230101"
+path = "src/2023/day-01/part-1/main.rs"
+[[bin]]
+name = "20230102"
+path = "src/2023/day-01/part-2/main.rs"
+[[bin]]
+name = "20230201"
+path = "src/2023/day-02/part-1/main.rs"
+[[bin]]
+name = "20230202"
+path = "src/2023/day-02/part-2/main.rs"
