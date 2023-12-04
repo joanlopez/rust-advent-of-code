@@ -52,9 +52,6 @@ fn other() -> Result<(), io::Error> {
     let numbers: Vec<i32> = input
         .lines()
         .filter_map(|line| {
-
-            match  {  }
-            
             let first_digit = line.chars().find(|c| c.is_digit(10));
             let last_digit = line.chars().rev().find(|c| c.is_digit(10));
 
