@@ -10,4 +10,5 @@
 - [X] [Day 1: Trebuchet?!](./src/2023/day-01/)
 - [X] [Day 2: Cube Conundrum](./src/2023/day-02/)
 - [X] [Day 3: Gear Ratios](./src/2023/day-03/)
+- [X] [Day 4: Scratchcards](./src/2023/day-04/)
 </details>
