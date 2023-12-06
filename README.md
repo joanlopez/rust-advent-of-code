@@ -11,4 +11,6 @@
 - [X] [Day 2: Cube Conundrum](./src/2023/day-02/)
 - [X] [Day 3: Gear Ratios](./src/2023/day-03/)
 - [X] [Day 4: Scratchcards](./src/2023/day-04/)
+- [ ] [Day 5: If You Give A Seed A Fertilizer](./src/2023/day-05/)
+- [X] [Day 6: Wait For It](./src/2023/day-06/)
 </details>

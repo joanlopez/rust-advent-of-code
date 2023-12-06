@@ -33,3 +33,15 @@ path = "src/2023/day-04/part-1/main.rs"
 [[bin]]
 name = "20230402"
 path = "src/2023/day-04/part-2/main.rs"
+[[bin]]
+name = "20230501"
+path = "src/2023/day-05/part-1/main.rs"
+[[bin]]
+name = "20230502"
+path = "src/2023/day-05/part-2/main.rs"
+[[bin]]
+name = "20230601"
+path = "src/2023/day-06/part-1/main.rs"
+[[bin]]
+name = "20230602"
+path = "src/2023/day-06/part-2/main.rs"
